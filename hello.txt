@@ -1,1 +1,6 @@
-hi hello_11
+//hi hello_11
+
+print("hello world");
+print("tell your world");
+print("tell his world");
+print("tell her world");
