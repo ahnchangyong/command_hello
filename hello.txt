@@ -6,4 +6,4 @@ print("tell your world");
 print("tell his world");
 print("tell her world");
 print("tell my world");
-print("test vscode111222");
+print("test vscode111");
